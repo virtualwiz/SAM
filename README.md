@@ -3,6 +3,17 @@ SAM
 
 Software Automatic Mouth - Tiny Speech Synthesizer 
 
+About This Fork
+===============
+
+Utilised ```xdg-open``` instead of ```libsdl```.
+
+To have fun, type:
+
+	make
+    make say
+    <your sentence>
+
 
 What is SAM?
 ============
